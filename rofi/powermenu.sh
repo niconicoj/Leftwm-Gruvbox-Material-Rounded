@@ -15,8 +15,8 @@
 # full_circle     full_square     full_rounded     full_alt
 # row_circle      row_square      row_rounded      row_alt
 
-theme="column_rounded"
-dir="$HOME/.config/rofi/powermenu"
+theme="powermenu"
+dir="$HOME/.config/leftwm/themes/gruvbox-material/rofi"
 
 # random colors
 styles=($(ls -p --hide="colors.rasi" $dir/styles))
